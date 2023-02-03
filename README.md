@@ -1,1 +1,3 @@
-# My-Portfilo-using-Css-and-Html-
+# My-Portfilo-using-Css-and-Html
+This code represents a portfolio page created using HTML and CSS. In "About Me" section that includes a picture and a description of the author. The picture is positioned on the left and the description is aligned to the right, creating a visually appealing layout. The picture has a border radius of 50% and an animation that fades it in when the page loads. The colors used in this code are "White lilac (#F8F8F9), dark blue (#111439)" and the picture is sourced from the link provided. This code is a great example of using HTML and CSS to create a simple and attractive portfolio page, and could be easily modified for use in your own portfolio.
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/84716396/216689910-63d5f639-5b87-41d4-9c49-2142ddc6afc2.png">
